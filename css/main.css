@@ -1818,6 +1818,11 @@ body.pc .header-bottom-nav__item:hover .header-bottom-submenu {
   color: var(--white);
 }
 
+.main-title {
+  opacity: 0;
+  visibility: hidden;
+}
+
 .promo-svg {
   width: 24px;
   height: 24px;
